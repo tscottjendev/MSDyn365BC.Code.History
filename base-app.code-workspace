@@ -3,19 +3,44 @@
         {
             "name": "Base App",
             "path": "BaseApp/Source/Base Application"
-        },
-        {
-            "name": "Base App Tests",
-            "path": "BaseApp/Test"
         }
     ],
     "settings": {
-        "allint.enabled": false,
         "al.enableCodeActions": false,
         "al.enableCodeAnalysis": false,
         "al.backgroundCodeAnalysis": false,
         "search.exclude": {
             "**.xlf": true
-        }
+        },
+        "al.packageCachePath": [
+            "../../.alpackages"
+        ],
+        "al.assemblyProbingPaths": [
+            "C:\\Repos\\GitHub\\tscottjendev\\MSDyn365BC.Code.History\\.netPackages",
+            "C:\\Windows\\assembly"
+        ],
+    },
+    "launch": {
+        "version": "0.2.0",
+        "configurations": [
+            {
+                "name": "Publish: Your own server",
+                "type": "al",
+                "request": "launch",
+                "environmentType": "OnPrem",
+                "server": "http://localdevts",
+                "serverInstance": "BC",
+                "authentication": "UserPassword",
+                "breakOnError": "All",
+                "breakOnRecordWrite": "None",
+                "launchBrowser": true,
+                "enableSqlInformationDebugger": true,
+                "enableLongRunningSqlStatements": true,
+                "longRunningSqlStatementsThreshold": 500,
+                "numberOfSqlStatements": 10,
+                "tenant": "default",
+                "usePublicURLFromServer": true
+            }
+        ]
     }
 }

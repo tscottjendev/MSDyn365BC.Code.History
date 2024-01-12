@@ -1,0 +1,253 @@
+{
+	"folders": [
+		{
+			"path": "System Application/Source/System Application/Advanced Settings"
+		},
+		{
+			"path": "System Application/Source/System Application/Auto Format"
+		},
+		{
+			"path": "System Application/Source/System Application/Azure AD Graph"
+		},
+		{
+			"path": "System Application/Source/System Application/Azure AD Licensing"
+		},
+		{
+			"path": "System Application/Source/System Application/Azure AD Plan"
+		},
+		{
+			"path": "System Application/Source/System Application/Azure AD Tenant"
+		},
+		{
+			"path": "System Application/Source/System Application/Azure AD User"
+		},
+		{
+			"path": "System Application/Source/System Application/Azure AD User Management"
+		},
+		{
+			"path": "System Application/Source/System Application/Azure Blob Services API"
+		},
+		{
+			"path": "System Application/Source/System Application/Azure Function"
+		},
+		{
+			"path": "System Application/Source/System Application/Azure Key Vault"
+		},
+		{
+			"path": "System Application/Source/System Application/Azure Storage Services Authorization"
+		},
+		{
+			"path": "System Application/Source/System Application/Barcode"
+		},
+		{
+			"path": "System Application/Source/System Application/Base64 Convert"
+		},
+		{
+			"path": "System Application/Source/System Application/BLOB Storage"
+		},
+		{
+			"path": "System Application/Source/System Application/Business Chart"
+		},
+		{
+			"path": "System Application/Source/System Application/Camera and Media Interaction"
+		},
+		{
+			"path": "System Application/Source/System Application/Caption Class"
+		},
+		{
+			"path": "System Application/Source/System Application/Client Type Management"
+		},
+		{
+			"path": "System Application/Source/System Application/Confirm Management"
+		},
+		{
+			"path": "System Application/Source/System Application/Cryptography Management"
+		},
+		{
+			"path": "System Application/Source/System Application/Cues and KPIs"
+		},
+		{
+			"path": "System Application/Source/System Application/Data Archive"
+		},
+		{
+			"path": "System Application/Source/System Application/Data Classification"
+		},
+		{
+			"path": "System Application/Source/System Application/Data Compression"
+		},
+		{
+			"path": "System Application/Source/System Application/Date-Time Dialog"
+		},
+		{
+			"path": "System Application/Source/System Application/Default Role Center"
+		},
+		{
+			"path": "System Application/Source/System Application/Device"
+		},
+		{
+			"path": "System Application/Source/System Application/Document Sharing"
+		},
+		{
+			"path": "System Application/Source/System Application/DotNet Aliases"
+		},
+		{
+			"path": "System Application/Source/System Application/Edit in Excel"
+		},
+		{
+			"path": "System Application/Source/System Application/Email"
+		},
+		{
+			"path": "System Application/Source/System Application/Encoding"
+		},
+		{
+			"path": "System Application/Source/System Application/Environment Cleanup"
+		},
+		{
+			"path": "System Application/Source/System Application/Environment Information"
+		},
+		{
+			"path": "System Application/Source/System Application/Extension Management"
+		},
+		{
+			"path": "System Application/Source/System Application/Feature Key"
+		},
+		{
+			"path": "System Application/Source/System Application/Field Selection"
+		},
+		{
+			"path": "System Application/Source/System Application/Filter Tokens"
+		},
+		{
+			"path": "System Application/Source/System Application/Geolocation"
+		},
+		{
+			"path": "System Application/Source/System Application/Guided Experience"
+		},
+		{
+			"path": "System Application/Source/System Application/Headlines"
+		},
+		{
+			"path": "System Application/Source/System Application/Image"
+		},
+		{
+			"path": "System Application/Source/System Application/Language"
+		},
+		{
+			"path": "System Application/Source/System Application/Math"
+		},
+		{
+			"path": "System Application/Source/System Application/Navigation Bar Subscribers"
+		},
+		{
+			"path": "System Application/Source/System Application/OAuth"
+		},
+		{
+			"path": "System Application/Source/System Application/OAuth2"
+		},
+		{
+			"path": "System Application/Source/System Application/OAuthClientAddIn"
+		},
+		{
+			"path": "System Application/Source/System Application/Object Selection"
+		},
+		{
+			"path": "System Application/Source/System Application/Page Action Provider"
+		},
+		{
+			"path": "System Application/Source/System Application/Page Summary Provider"
+		},
+		{
+			"path": "System Application/Source/System Application/Password"
+		},
+		{
+			"path": "System Application/Source/System Application/Performance Profiler"
+		},
+		{
+			"path": "System Application/Source/System Application/Permission Sets"
+		},
+		{
+			"path": "System Application/Source/System Application/Printer Management"
+		},
+		{
+			"path": "System Application/Source/System Application/Privacy Notice"
+		},
+		{
+			"path": "System Application/Source/System Application/Record Link Management"
+		},
+		{
+			"path": "System Application/Source/System Application/Recurrence Schedule"
+		},
+		{
+			"path": "System Application/Source/System Application/Regex"
+		},
+		{
+			"path": "System Application/Source/System Application/Retention Policy"
+		},
+		{
+			"path": "System Application/Source/System Application/Satisfaction Survey"
+		},
+		{
+			"path": "System Application/Source/System Application/Secrets"
+		},
+		{
+			"path": "System Application/Source/System Application/Server Settings"
+		},
+		{
+			"path": "System Application/Source/System Application/SmartList Designer Subscribers"
+		},
+		{
+			"path": "System Application/Source/System Application/System Initialization"
+		},
+		{
+			"path": "System Application/Source/System Application/System Permissions"
+		},
+		{
+			"path": "System Application/Source/System Application/Table Information"
+		},
+		{
+			"path": "System Application/Source/System Application/Telemetry"
+		},
+		{
+			"path": "System Application/Source/System Application/Tenant License State"
+		},
+		{
+			"path": "System Application/Source/System Application/Time Zone Selection"
+		},
+		{
+			"path": "System Application/Source/System Application/Translation"
+		},
+		{
+			"path": "System Application/Source/System Application/Upgrade Tags"
+		},
+		{
+			"path": "System Application/Source/System Application/URI"
+		},
+		{
+			"path": "System Application/Source/System Application/User Login Times"
+		},
+		{
+			"path": "System Application/Source/System Application/User Permissions"
+		},
+		{
+			"path": "System Application/Source/System Application/User Selection"
+		},
+		{
+			"path": "System Application/Source/System Application/User Settings"
+		},
+		{
+			"path": "System Application/Source/System Application/Video"
+		},
+		{
+			"path": "System Application/Source/System Application/Web Service Management"
+		},
+		{
+			"path": "System Application/Source/System Application/Word Templates"
+		},
+		{
+			"path": "System Application/Source/System Application/XML Validation"
+		},
+		{
+			"path": "System Application/Source/System Application/XmlWriter"
+		}
+	]
+}
