@@ -170,5 +170,6 @@
                                    "allowDownloadingSource":  true,
                                    "includeSourceInSymbolFile":  true
                                },
-    "brief":  "Base Application (GB)"
+    "brief":  "Base Application (GB)",
+    "preprocessorSymbols": ["CLEAN15","CLEAN16","CLEAN17","CLEAN18","CLEAN19","CLEAN20","CLEAN21","CLEAN22","CLEAN23"]
 }
